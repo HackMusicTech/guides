@@ -10,9 +10,9 @@ Cabling
 
 For the Pins
 
-* Crimping Tool
-* Female or Male Crimp Pins
-* Connector Housings
+* [Crimping Tool](http://www.pololu.com/catalog/product/1928)
+* [Male](http://www.pololu.com/catalog/product/1931) or [Female](http://www.pololu.com/catalog/product/1930) Crimp Pins
+* [Connector Housings](http://www.pololu.com/catalog/product/1900)
 
 ## Instructions
 
@@ -36,6 +36,8 @@ Step 5 - Twist together the shield
 ![Add Pins](add_pins.jpg)
 
 Step 6 - Crimp on pins and insert into housings
+
+Here's an awesome video [awesome video guide](https://www.youtube.com/watch?v=GkbOJSvhCgU) on crimping.
 
 ## Use
 
