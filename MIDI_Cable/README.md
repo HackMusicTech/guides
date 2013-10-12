@@ -45,3 +45,6 @@ Use a multimeter to test which pin connects to which wire.
 Use with arduino or other circuits for computer controller MIDI.
 
 Be sure to follow a circuit to optoisolate incoming MIDI signals or a 220 ohm resister for out going.
+Amanda Ghassaei has an awesome instructable for this: [Send and Receive MIDI with Arduino](http://www.instructables.com/id/Send-and-Receive-MIDI-with-Arduino/)
+
+
