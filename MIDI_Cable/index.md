@@ -1,3 +1,8 @@
+---
+layout: default
+title: MIDI Cables for Prototyping
+---
+
 How to Make a MIDI Cable with Headers
 
 ## Materials Required
